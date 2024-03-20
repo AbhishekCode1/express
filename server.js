@@ -37,3 +37,4 @@ app.listen(PORT, ()=>{
 // link rounting
 // link routing static middleware
 // through a convetion jo index file hogi wo hmesa home ke liye li jaati hai by default.
+// any cdn file add in head file
